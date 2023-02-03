@@ -1,0 +1,14 @@
+/* takeaways */
+
+1) sizes, src-set
+2) ring box-shadow
+3) space-x-2 / space-y-2
+4) drop-shadow
+5) inset-0 (top bottom left right = 0)
+6) max-w-prose
+7) [@media(hover:hover)]:opacity-0 - if media screen allows to hover, then apply this style
+8) peer
+9) caret: caret-color (input |)
+10) sr-only
+11) justify-items-center
+12) justify-around 
